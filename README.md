@@ -4,3 +4,4 @@
 - `git add .` 把目前所有的變更記錄起來
 - `git commit -m "<message>"` 幫這次的變更紀錄留下標注訊息
 - `git push` 提交這次的變更紀錄
+- `git clone <repo-url>` 下載 github 上的專案內容
